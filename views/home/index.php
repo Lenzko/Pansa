@@ -43,6 +43,66 @@
   transition: opacity 0.3s ease;
   pointer-events: none;
 }
+.fitur-unggulan .card {
+  background: linear-gradient(135deg, #FFD700, #FFC107);
+  position: relative;
+  overflow: hidden;
+  transform: scale(1);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* Efek berkilau */
+.fitur-unggulan .card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -60%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent, rgba(255,255,255,0.6), transparent);
+  transform: skewX(-20deg);
+  opacity: 0;
+  transition: left 0.5s, opacity 0.4s;
+}
+
+/* Hover manual */
+.fitur-unggulan .card:hover {
+  background: linear-gradient(135deg, #FFEA00, #FFB300);
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.4);
+  transform: scale(1.03);
+}
+
+.fitur-unggulan .card:hover::after {
+  left: 120%;
+  opacity: 1;
+}
+
+/* Animasi auto-hover bergiliran */
+@keyframes card-hover {
+  0%   { box-shadow: 0 0 20px rgba(255,255,255,0.5); transform: scale(1.03); }
+  100% { box-shadow: none; transform: scale(1); }
+}
+
+.fitur-unggulan .col-md-3:nth-child(1) .card {
+  animation: card-hover 1s ease alternate infinite;
+  animation-delay: 0s;
+}
+
+.fitur-unggulan .col-md-3:nth-child(2) .card {
+  animation: card-hover 1s ease alternate infinite;
+  animation-delay: 2s;
+}
+
+.fitur-unggulan .col-md-3:nth-child(3) .card {
+  animation: card-hover 1s ease alternate infinite;
+  animation-delay: 4s;
+}
+
+.fitur-unggulan .col-md-3:nth-child(4) .card {
+  animation: card-hover 1s ease alternate infinite;
+  animation-delay: 6s;
+}
+
 .col-md-5-5 {
     width: 35.5%;
     float: left;
@@ -190,7 +250,7 @@
       <h1>Kenapa Harus Pilih <span class="text-primary">SMK Pancasila 1 </span>Kutoarjo?</h1>
     </div>
   </div>
-  <div class="row">
+  <div class="row fitur-unggulan">
     <div class="col-md-3">
       <div class="card">
         <div class="card-body text-center">
