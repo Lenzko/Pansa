@@ -1,30 +1,49 @@
+<head>
+  <style>
+    .container p {
+  text-align: justify;
+}
+
+  </style>
+</head>
 <div class="container">
-  <h2>Profile</h2>
-			<p>Tuntutan masyarakat terhadap pelayanan kesehatan yang optimal, kebutuhan tenaga kesehatan yang profesional oleh penyedia layanan kesehatan, serta semakin terbukanya peluang kerja baik didalam maupun diluar negeri, menjadi tantangan yang harus dijawab oleh penyedia tenaga kesehatan.</p>
-<p>Bertolak dari hal tersebut diatas, maka pada tahun 1997 didirikan Yayasan Pendidikan Widya Husada di Semarang dengan akta notaris Mustari Sawilin, SH Nomor: 21, tanggal 28 Mei 1997.</p>
-<p>Yayasan Pendidikan Widya Husada Semarang adalah lembaga atau badan hukum yang menyelenggarakan Pendidikan Tinggi, yang terdiri dari :<br>
-1. Akademik Teknik Radiodiagnostik dan Radioterapi (ATRO) Widya Husada<br>
-2. Akademi Refraksi Optisi (ARO) Widya Husada<br>
-3. Akademi Fisioterapi (AKFIS) Widya Husada<br>
-4. Akademi Teknik Elektro Medik (ATEM) Widya Husada<br>
-5. Akademi Keperawatan (AKPER) Widya Husada</p>
-<p>Pada tahun 2003 Yayasan Pendidikan Widya Husada menambah 1 Akademi yaitu Akademi Kebidanan (AKBID) Widya Husada.</p>
-<p>Tahun 2006 terjadi perubahan bentuk dan alih bina, yang semula dibawah pembinaan Kementerian Kesehatan (Kemenkes), beralih pembinaan ke Kementerian Pendidikan Nasional (Kemendiknas), sehingga menjadi Sekolah Tinggi Ilmu Kesehatan (STIKES) Widya Husada dan penambahan 1 Prodi baru yaitu Prodi S1 Ilmu Keperawatan.</p>
-<p>Pada tahun 2019 Yayasan Pendidikan Widya Husada menambah 1 Prodi yaitu Prodi S1 Perekam dan Informasi Kesehatan.</p>
-<p>Kemudian di tahun 2020 STIKES Widya Husada Semarang, AKPER Widya Husada Semarang dan AKFIS Widya Husada Semarang melebur menjadi satu berubah nama menjadi Universitas Widya Husada Semarang.</p>
-<p>Sehingga saat ini Universitas Widya Husada telah mempunyai 11 Program Studi, yaitu :</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtUqt88Tbuzy8GEVA0jR0LQLUTyp63F5mxQ&s" alt="Foto SMK Pancasila 1 Kutoarjo" style="width:70%; max-width:400px; display:block; margin:0 auto 20px;">
+<h2>Profile SMK Pancasila 1 Kutoarjo</h2>			
+<p>SMK Pancasila 1 Kutoarjo adalah sekolah menengah kejuruan swasta yang berdiri sejak 25 Mei 1991, berlokasi di Jl. Mayjend. S. Parman, Kutoarjo, Kabupaten Purworejo, Jawa Tengah. Sekolah ini berada di bawah naungan Kementerian Pendidikan dan Kebudayaan dan dikelola oleh Yayasan Bina Tani Bagelen.</p>
+<p>Identitas Sekolah :<br>
+<table style="width: 100%; max-width: 700px;">
+  <tr>
+    <td style="width: 130px;"><strong>Nama</strong></td>
+    <td>: SMK Pancasila 1 Kutoarjo (sering disebut SMK Pansa)</td>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>: Swasta</td>
+  </tr>
+  <tr>
+    <td><strong>Tanggal Berdiri</strong></td>
+    <td>: 25 Mei 1991</td>
+  </tr>
+  <tr>
+    <td><strong>Alamat</strong></td>
+    <td>: Jl. Mayjen S. Parman, Desa Bandung, Kec. Kutoarjo, Kab. Purworejo, Jawa Tengah</td>
+  </tr>
+  <tr>
+    <td><strong>Akreditasi</strong></td>
+    <td>: B (SK No. 1214/BAN-SM/SK/2018)</td>
+  </tr>
+  <tr>
+    <td><strong>Sertifikasi</strong></td>
+    <td>: ISO 9001:2015</td>
+  </tr>
+</table>
+<p>SMK Pancasila 1 Kutoarjo hadir sebagai lembaga pendidikan kejuruan yang berkomitmen mencetak lulusan siap kerja, berdaya saing tinggi, dan berkarakter. Dengan lima jurusan unggulan, sekolah ini membekali siswa dengan keterampilan teknis dan etos kerja profesional yang dibutuhkan di dunia industri maupun wirausaha.</p>
+<p>Sehingga saat ini SMK Pansa memiliki 5 jurusan unggulan, yaitu :</p>
 <ol>
-<li>Profesi Ners</li>
-<li>Prodi S1 Keperawatan</li>
-<li>Prodi S1 Informatika Medis</li>
-<li>Prodi S1 Sistem dan Teknologi Informasi</li>
-<li>Prodi S1 Manajemen</li>
-<li>Prodi S1 Kewirausahaan</li>
-<li>Prodi S1 Fisioterapi</li>
-<li>Prodi D3 Radiologi</li>
-<li>Prodi D3 Optometri</li>
-<li>Prodi D3 Fisioterapi</li>
-<li>Prodi D3 Teknologi Elektro Medis</li>
-<li>Prodi D3 Keperawatan</li>
+<li>Teknik Kendaraan Ringan Otomotif</li>
+<li>Teknik dan Bisnis Sepeda Motor</li>
+<li>Teknik Pemesinan</li>
+<li>Teknik Pengelasan</li>
+<li>Teknik Komputer dan Jaringan</li>
 </ol>
 </div>
