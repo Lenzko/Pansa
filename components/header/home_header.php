@@ -45,7 +45,7 @@
   <nav class="navbar navbar-expand-lg" style="background-color: #3674B5;">
     <div class="container w-100 d-flex justify-content-between">
       <div class="">
-        <a class="navbar-brand" href="<?= BASE_URL. '/' ?>">
+        <a class="navbar-brand" href="https://smkpansa.sch.id/read/11/donor-darah-siswa-smk-pancasila-1-kutoarjo">
           <img src="http://smkpansa.sch.id/media_library/images/1468ab823038e7901c854e5445c8a664.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-center logo-glow ">
           <STrong>PANSA</STrong>
         </a>

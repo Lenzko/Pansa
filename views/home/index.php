@@ -234,7 +234,7 @@
         <h1 class="text-left font shimmer-text">SMK<span class="text-primary"> Pancasila 1</span> Kutoarjo</h1>
         <p class="text-left italic-justify ">"Terciptanya sumber daya manusia yang utuh, sehingga menjadi manusia pembangunan yang berjiwa Pancasila, berwawasan global, dan ramah terhadap lingkungan."</p>
         <div class="mt-2">
-          <button class="btn btn-primary vibrate-btn">Daftar Sekarang</button>
+           <a href="https://sites.google.com/view/test-ppdb2024/form-ppdb" class="btn btn-primary vibrate-btn">Daftar Sekarang</a>
         </div>
       </div>
       <div class="col-5 ">
