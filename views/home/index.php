@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<div class="container-fluid">
+<div style="background-color: #578FCA" class="container-fluid">
   <div class="container pt-5 px-2 pb-2">
     <div class="row justify-content-between">
       <div class="col-5">

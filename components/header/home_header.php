@@ -1,7 +1,13 @@
 <!DOCTYPE html>
-
+<head>
+<style>
+  .nav-putih .nav-link {
+    color: white !important;
+  }
+</style>
+</head>
 <header>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg" style="background-color: #3674B5;">
     <div class="container w-100 d-flex justify-content-between">
       <div class="">
         <a class="navbar-brand" href="<?= BASE_URL. '/' ?>">
@@ -10,7 +16,7 @@
         </a>
       </div>
       <div class="">
-        <ul class="navbar-nav justify-content-end">
+        <ul class="navbar-nav justify-content-end nav-putih">
           <li class="nav-item"><a class="nav-link" href="<?= BASE_URL ?>">Beranda</a></li>
           <li class="nav-item"><a class="nav-link" href="<?= BASE_URL ?>about">Tentang</a></li>
           <li class="nav-item"><a class="nav-link" href="<?= BASE_URL ?>artikel">Kegiatan</a></li>
