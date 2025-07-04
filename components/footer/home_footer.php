@@ -47,7 +47,7 @@
 }
   </style>
 </head><footer style="background-color:rgb(127, 133, 149)" >
-<div class="contianer-fluid bg-primary">
+<div class="contianer-fluid" style="background-color: #3674B5;">
   <div class="container py-4">
     <div class="row text-white">
       <div class="col-md-4">

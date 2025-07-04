@@ -1,6 +1,6 @@
 <div class="container mb-5">
   <h2 class="text-center my-4">Berita Terbaru</h2>
-  <p class="text-center mb-4">Berikut adalah berita terbaru dari Universitas Widya Husada Semarang. Kami berkomitmen untuk memberikan informasi terkini mengenai kegiatan, prestasi, dan perkembangan kampus kami. Jangan lewatkan berita menarik lainnya di halaman ini.</p>
+  <p class="text-center mb-4">Berikut adalah berita terbaru dari SMK Pancasila 1 Kutoarjo. Kami berkomitmen untuk memberikan informasi terkini mengenai kegiatan, prestasi, dan perkembangan kampus kami. Jangan lewatkan berita menarik lainnya di halaman ini.</p>
   <div class="text-center mb-4">
     <!-- <img src="./img////////.jpg" alt="Berita Terbaru" class="img-fluid rounded"> -->
   </div> 
